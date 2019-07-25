@@ -1,5 +1,8 @@
 venv
 *.DS_Store
 *.pyc
-__pycache__
-.vscode/
+__pycache__/
+*.vscode
+
+#Database
+*.sqlite3
